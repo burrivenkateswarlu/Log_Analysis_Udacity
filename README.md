@@ -113,4 +113,4 @@ GROUP BY Date;
 ```
 
 ## Miscellaneous
-![output.png](())
+![output.png]((https://github.com/burrivenkateswarlu/Log_Analysis_Udacity/blob/master/output.png))
